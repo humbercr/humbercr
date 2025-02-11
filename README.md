@@ -7,6 +7,7 @@
 💼 **Software Engineer** with expertise in **cybersecurity, software development, and process automation**.  
 🚀 Passionate about technology, cybersecurity, and creating innovative applications.  
 🔍 Always learning and exploring new tools and methodologies to enhance efficiency and security.  
+🌐 **Web3 Learner**, diving into the world of decentralized applications and blockchain technologies.  
 
 ---
 
@@ -26,30 +27,28 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
 </div>
 
 ---
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humbercr&show_icons=true&theme=dark" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humbercr&theme=dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=humbercr&show_icons=true&theme=dark" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humbercr&theme=dark" width="45%" />
 </div>
 
 ---
 
 ### 🖥 Most Used Languages  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbercr&layout=compact&theme=dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbercr&layout=compact&theme=dark" width="45%" />
 </div>
 
 ---
 
-
 ### 🌍 Contact  
 📫 **Email:** [humbertovava@gmail.com](mailto:humbertovava@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/humberto-valverde](https://www.linkedin.com/in/humberto-valverde/)
+💼 **LinkedIn:** [linkedin.com/in/humberto-valverde](https://www.linkedin.com/in/humberto-valverde/)  
 🐦 **X (Twitter):** [@Humbercr_](https://x.com/Humbercr_)
 
 ---
