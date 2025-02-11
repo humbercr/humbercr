@@ -39,9 +39,17 @@
 
 ---
 
+### 🖥 Most Used Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbercr&layout=compact&theme=dark" width="48%">
+</div>
+
+
+
 ### 🌍 Contact  
 📫 **Email:** [humbertovava@gmail.com](mailto:humbertovava@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/humberto-valverde](https://www.linkedin.com/in/humberto-valverde/)  
+💼 **LinkedIn:** [linkedin.com/in/humberto-valverde](https://www.linkedin.com/in/humberto-valverde/)
+🐦 **X (Twitter):** [@Humbercr_](https://x.com/Humbercr_)
 
 ---
 
