@@ -35,9 +35,16 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=humbercr&show_icons=true&theme=dark" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=humbercr&theme=dark" width="48%">
+</div>
+
+---
+
+### 🖥 Most Used Languages  
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbercr&layout=compact&theme=dark" width="48%">
 </div>
 
+---
 
 
 ### 🌍 Contact  
