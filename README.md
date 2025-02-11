@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Humberto Valverde</h1>
+<h3 align="center">Software Engineer | Cybersecurity Specialist | Tech Enthusiast</h3>
 
-<!--
-**humbercr/humbercr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔹 About Me  
+💼 **Software Engineer** with expertise in **cybersecurity, software development, and process automation**.  
+🚀 Passionate about technology, cybersecurity, and creating innovative applications.  
+🔍 Always learning and exploring new tools and methodologies to enhance efficiency and security.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Technologies & Tools  
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tenable-00ADEF?style=for-the-badge&logo=tenable&logoColor=white"/>
+</div>
+
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=humbercr&show_icons=true&theme=dark" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humbercr&theme=dark" width="48%">
+</div>
+
+---
+
+### 🌍 Contact  
+📫 **Email:** [humbertovava@gmail.com](mailto:humbertovava@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/humberto-valverde](https://www.linkedin.com/in/humberto-valverde/)  
+
+---
+
+🚀 *Always seeking new challenges and opportunities to innovate in the tech world.*  
