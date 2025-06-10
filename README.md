@@ -40,14 +40,14 @@
 
 ### 🖥 Most Used Languages  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbercr&layout=compact&theme=dark" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbercr&layout=compact&theme=dark&cache_seconds=86400" width="45%" />
 </div>
 
 ---
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=humbercr&theme=dark" width="45%" />
 </div>
-
 
 ---
 
@@ -58,4 +58,4 @@
 
 ---
 
-🚀 *Always seeking new challenges and opportunities to innovate in the tech world.*  
+🚀 *Always seeking new challenges and opportunities to innovate in the tech world.* 
