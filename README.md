@@ -3,15 +3,15 @@
 
 ---
 
-### 🔹 About Me  
+### 🔹 About Me
 💼 **Software Engineer** with expertise in **cybersecurity, software development, and process automation**.  
 🚀 Passionate about technology, cybersecurity, and creating innovative applications.  
 🔍 Constant learner, exploring new tools and methodologies to enhance efficiency and security.  
-🌐 **Web3 enthusiast**, diving into decentralized applications and blockchain technologies.  
+🌐 **Web3 enthusiast**, diving into decentralized applications and blockchain technologies.
 
 ---
 
-### 🛠 Technologies & Tools  
+### 🛠 Technologies & Tools
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -33,18 +33,20 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <div align="center">
 
 ![Humberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=humbercr&show_icons=true&theme=dark&cache_seconds=1800&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humbercr&layout=compact&theme=dark&cache_seconds=1800&hide_border=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=humbercr&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-### 🌍 Connect with Me  
+### 🌍 Connect with Me
 📫 **Email:** [humbertovava@gmail.com](mailto:humbertovava@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/humberto-valverde](https://www.linkedin.com/in/humberto-valverde/)  
 🐦 **X (Twitter):** [@Humbercr_](https://x.com/Humbercr_)
